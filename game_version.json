@@ -1,5 +1,6 @@
 {
   "latestVersion": 25,
-  "forceUpdate": false,
+  "forceUpdate": true,
   "updateUrl": "https://play.google.com/store/apps/details?id=com.ValenLTD.BUBBLEGO"
+
 }
